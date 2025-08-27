@@ -1,0 +1,23 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+    
+}
+.root {
+    -fx-font-family: "Comic Sans MS";
+    -fx-font-weight: bold;
+    -fx-background-color: rgba(173, 216, 230, 0.20); /* soft translucent blue */
+}
+
+
+.background{ 
+            -fx-font-family: "Comic Sans MS";
+            -fx-font-weight: bold;
+}
+.TapPane{-fx-background-color: rgba(173, 216, 230, 0.20); 
+        -fx-font-weight: bold;
+}
+
+
